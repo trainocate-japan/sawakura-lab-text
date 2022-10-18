@@ -1,0 +1,13 @@
+.vscode
+.DS_Store
+.venv/
+dbdata/
+__pycache__/
+node_modules/
+yarn--*
+v8-*
+core-js-banners
+.vuepress
+*credentials.*
+tmp/
+*.log
