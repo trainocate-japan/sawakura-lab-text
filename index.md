@@ -1,7 +1,11 @@
-# さわってわかるクラウド入門 ラボ手順
+# さわってわかるクラウド入門 演習手順
+
 ## AWS
-[AWSラボ 実施手順](/aws/index.md)
-## Azure
-- TBW
-## GCP
-- TBW
+[AWS演習 実施手順](aws/index.md)
+<!--
+<br>
+[AWS演習 実施手順 (オプション演習あり)](aws/index_option.md)
+-->
+
+## Azure / GCP
+[Azure演習およびGCPデモ](https://docs.google.com/document/d/1Y9t6Tl0-i2yZCgd1_POMEI8UxcvvX2d7dFSdEo2BWGE/edit)
