@@ -4,9 +4,6 @@
 dbdata/
 __pycache__/
 node_modules/
-yarn--*
-v8-*
-core-js-banners
 *credentials.*
 tmp/
 *.log
