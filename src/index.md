@@ -5,7 +5,7 @@ home: true
 ### 演習手順一覧
 
 # AWS
-[AWS演習 実施手順](aws/index.md)
+[AWS演習 実施手順](aws/index_linux_python.md)
 <!--
 <br>
 [AWS演習 実施手順 (オプション演習あり)](aws/index_option.md)
