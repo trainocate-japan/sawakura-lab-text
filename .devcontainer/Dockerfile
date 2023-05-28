@@ -5,5 +5,9 @@ ARG VARIANT="3.16"
 FROM mcr.microsoft.com/vscode/devcontainers/base:0-alpine-${VARIANT}
 
 # ** [Optional] Uncomment this section to install additional packages. **
-# RUN apk update \
-#     && apk add --no-cache <your-package-list-here>
+RUN apk update \
+     && apk add --no-cache fish nodejs npm yarn aws-cli
+
+# install github actions local tester
+RUN cd /opt \
+     && curl https://raw.githubusercontent.com/nektos/act/master/install.sh | sudo bash
