@@ -26,4 +26,4 @@ home: true
 ---
 
 # Azure / GCP
-[Azure演習手順 および GCPデモ](https://docs.google.com/document/d/1Y9t6Tl0-i2yZCgd1_POMEI8UxcvvX2d7dFSdEo2BWGE/edit)
+[Azure演習手順 および GCPデモ](https://docs.google.com/document/d/1IZF0DDSzfd7ZLsI1sn-Qt0i9A4DvU1vu5uwSr_TIb9U/edit)
