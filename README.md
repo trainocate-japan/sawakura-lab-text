@@ -1,25 +1,16 @@
-# さわってわかるクラウド入門 演習テキスト
+さわってわかるクラウド入門 演習テキスト
+==
 - さわってわかるクラウド入門の演習テキストを管理するためのリポジトリです
-- Masterブランチの docs/ ディレクトリが GithubPages で公開されます
-
-## dev
+- masterブランチの docs/ ディレクトリが GithubPages で公開されます
+## install
 ```
 yarn
 ```
+## dev
 ```
-yarn src:dev
+yarn dev
 ```
-
 ## build
 ```
-yarn src:build
+yarn build
 ```
-```
-git add -A
-```
-```
-git commit
-```
-```
-git push
-````
