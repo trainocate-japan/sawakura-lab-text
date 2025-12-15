@@ -1,19 +1,19 @@
 
-# 🚀 Azure Web Apps 作成ハンズオンガイド
+# Azure Web Apps 作成ハンズオンガイド
+- このラボでは、Azure Portal を使用して Web アプリケーションのホスティング環境（Azure App Service）を作成し、動作確認を行うまでの流れを学習します。
 
-このラボでは、Azure Portal を使用して Web アプリケーションのホスティング環境（Azure App Service）を作成し、動作確認を行うまでの流れを学習します。
+## ラボへのリンク
+[Create a Web App](https://www.whizlabs.com/labs/create-a-web-app)
 
-## 💡 前提知識：Azure App Service とは？
-
-Azure App Service は、Webアプリ、REST API、モバイルバックエンドをホストするためのHTTPベースのサービスです。
-
+## 前提知識：Azure App Service とは？
+- Azure App Service は、Webアプリ、REST API、モバイルバックエンドをホストするためのHTTPベースのサービスです。
 * **特徴:** インフラ（サーバーOSなど）の管理が不要な **PaaS（Platform as a Service）** です。
 * **対応言語:** .NET, Java, Ruby, Node.js, PHP, Python など。
 * **メリット:** セキュリティ、負荷分散（ロードバランシング）、自動スケーリング、DevOps連携（GitHubなど）の機能を簡単に利用できます。
 
 ---
 
-## 📝 手順
+## 手順
 
 ### 手順 1: Azure Portal にサインインする
 
