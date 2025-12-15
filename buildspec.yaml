@@ -1,0 +1,16 @@
+version: 0.2
+
+phases:
+  install:
+      commands:
+        - yarn
+  build:
+    commands:
+      - yarn build
+  post_build:
+    commands:
+      - aws s3 sync --delete --exact-timestamps docs/ s3://sawakura-cls-trainocate-biz/sawakura-lab-text/
+artifacts:
+  files:
+    - '**/*'
+  base-directory: 'docs'
