@@ -9,7 +9,7 @@ phases:
       - yarn build
   post_build:
     commands:
-      - aws s3 sync --delete --exact-timestamps docs/ s3://sawakura-cls-trainocate-biz/sawakura-lab-text/
+      - aws s3 sync --delete --exact-timestamps docs/ s3://sawakura-cls-trainocate-biz/
 artifacts:
   files:
     - '**/*'
