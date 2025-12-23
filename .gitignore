@@ -10,3 +10,4 @@ core-js-banners
 *credentials.*
 tmp/
 *.log
+*.zip

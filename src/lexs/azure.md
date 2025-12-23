@@ -2,8 +2,10 @@
 # Azure Web Apps 作成ハンズオンガイド
 - このラボでは、Azure Portal を使用して Web アプリケーションのホスティング環境（Azure App Service）を作成し、動作確認を行うまでの流れを学習します。
 
+<!--
 ## ラボへのリンク
 [Create a Web App](https://www.whizlabs.com/labs/create-a-web-app)
+!-->
 
 ## 前提知識：Azure App Service とは？
 - Azure App Service は、Webアプリ、REST API、モバイルバックエンドをホストするためのHTTPベースのサービスです。
@@ -55,3 +57,7 @@ Azure Portal 上で Web アプリのリソースを作成します。
 3.  画面右上付近にある **「既定のドメイン (Default domain)」** のURL（例: `https://my-webapp-xxx.azurewebsites.net`）をクリックします。
 4.  新しいブラウザタブが開き、「**Your web app is running and waiting for your content**」といったデフォルトの成功画面が表示されれば成功です。
 5.  Azureのウィンドウを閉じ、**[ラボの終了] (End Lab)** ボタンをクリックし、確認画面で「はい」を選択して終了します。i
+
+---
+
+[LEXS版手順書のトップに戻る](./index.md)
