@@ -6,7 +6,7 @@
   "author": "JinKanai <jin@kanaisan.com>",
   "license": "MIT",
   "dependencies": {
-    "vuepress": "^1.9.7"
+    "vuepress": "^1.9.10"
   },
   "scripts": {
     "dev": "vuepress dev src",
